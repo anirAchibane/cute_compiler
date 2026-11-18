@@ -1,0 +1,4 @@
+LET x = 2 + 3 * 4
+LET y = 5 + 2 - 8
+LET z = y / x
+PRINT z
